@@ -29,8 +29,8 @@ Aquí centralizamos tanto el código, como la documentación de nuestro trabajo.
     </td>
     <td align="center" width="220px">
       <img src="../img/lautaro.jpg" width="120px" style="border-radius:50%"><br>
-      <b>Ghosn Lautaro</b><br>
-      <sub>🎓 Padrón: XXXXXX</sub><br>
+      <b>Ghosn Lautaro Gabriel</b><br>
+      <sub>🎓 Padrón: 106998</sub><br>
       <sub>📧 lghosn@fi.uba.ar</sub>
     </td>
   </tr>
