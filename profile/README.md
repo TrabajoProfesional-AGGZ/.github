@@ -36,7 +36,7 @@ Aquí centralizamos tanto el código, como la documentación de nuestro trabajo.
   </tr>
   <tr>
     <td align="center" width="220px">
-      <img src="../img/martin.jpg" width="120px" style="border-radius:50%"><br>
+      <img src="../img/martin.png" width="120px" style="border-radius:50%"><br>
       <b>Guerrero Martín</b><br>
       <sub>🎓 Padrón: 107774</sub><br>
       <sub>📧 mguerrero@fi.uba.ar</sub>
