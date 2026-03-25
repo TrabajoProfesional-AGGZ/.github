@@ -2,6 +2,8 @@
 
 Bienvenidos a nuestro espacio de desarrollo del **Trabajo Profesional**.
 
+Somos el **Grupo 196** de la materia y el **Grupo 12** a cargo de nuestros tutores.
+
 Aquí centralizamos tanto el código, como la documentación de nuestro trabajo.
 
 ## 📌 Información de la materia
@@ -12,9 +14,10 @@ Aquí centralizamos tanto el código, como la documentación de nuestro trabajo.
 
 📅 Año: 2026
 
-## 🎯 Objetivos del Trabajo Profesional
+## 👨‍🏫 Tutores
 
-- TBC.
+- 🎓 **Mag. Ing. Gabriel Piñeiro**
+- 🎓 **Ing. Agustin Perrota**
 
 ## 👥 Integrantes
 
