@@ -1,10 +1,15 @@
-# 👨‍💻 FIUBA - Trabajo Profesional - AGGZ
+# 👨‍💻 FIUBA - Trabajo Profesional - SocioUnido
 
 Bienvenidos a nuestro espacio de desarrollo del **Trabajo Profesional**.
 
 Somos el **Grupo 196** de la materia y el **Grupo 12** a cargo de nuestros tutores.
 
 Aquí centralizamos tanto el código, como la documentación de nuestro trabajo.
+
+## 🚀 Información del producto
+
+- **Nombre:** SocioUnido
+- **Leitmotiv:** *"Porque el club es de los socios, y la gestión es de SocioUnido"*
 
 ## 📌 Información de la materia
 
