@@ -15,9 +15,9 @@ Aquí centralizamos tanto el código, como la documentación de nuestro trabajo.
 
 📍 Universidad de Buenos Aires – Facultad de Ingeniería
 
-📚 Materia: Trabajo Profesional de Ingeniería Informática
+📚 **Materia:** Trabajo Profesional de Ingeniería Informática
 
-📅 Año: 2026
+📅 **Año:** 2026
 
 ## 👨‍🏫 Tutores
 
