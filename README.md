@@ -1,6 +1,6 @@
 # Introducción a la organización
 
-Página principal de la organización 'SocioUnido'.
+Página principal de la organización "SocioUnido".
 
 📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/.github/)**
 
