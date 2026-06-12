@@ -11,9 +11,9 @@ Bienvenidos a nuestro espacio de desarrollo del **Trabajo Profesional**.
 
 En esta organización centralizamos tanto el código como toda la documentación y presentación oficial de nuestro proyecto **"SocioUnido"**. Para facilitar la lectura y el acceso a la información, hemos organizado este portal en tres secciones principales:
 
-* [**🚀 Introducción a SocioUnido**](introduccion.md): Aquí se resume el producto desarrollado.
-* [**👥 Integrantes**](integrantes.md): Espacio para concer al equipo detrás del desarrollo, roles asignados dentro del proyecto y métodos de contacto.
-* [**📦 Repositorios**](repositorios.md): Funciona como índice con acceso directo y explicativo a todos los repositorios que componen nuestro trabajo profesional.
+* [**🚀 Introducción a SocioUnido**](introduccion.html): Aquí se resume el producto desarrollado.
+* [**👥 Integrantes**](integrantes.html): Espacio para concer al equipo detrás del desarrollo, roles asignados dentro del proyecto y métodos de contacto.
+* [**📦 Repositorios**](repositorios.html): Funciona como índice con acceso directo y explicativo a todos los repositorios que componen nuestro trabajo profesional.
 
 ## 📌 Información de la materia
 
