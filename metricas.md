@@ -6,13 +6,7 @@ nav_order: 5
 
 # Métricas de la organización
 
-Monitoreo global del avance, calidad de código y gestión de tareas para todos los repositorios que componen el proyecto Socio Unido.
-
-## Lenguajes de programación (Global)
-
-Distribución de los lenguajes utilizados en todos los repositorios de la organización:
-
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=trabajoprofesional-aggz&repo=plataforma-web&layout=compact&theme=default)
+Monitoreo global del avance, calidad de código y gestión de tareas para todos los repositorios que componen el proyecto SocioUnido.
 
 ## Actividad por repositorio
 
