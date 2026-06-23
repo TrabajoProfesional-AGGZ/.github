@@ -24,7 +24,7 @@ Aquí centralizamos tanto el código, como la documentación de nuestro trabajo.
 ## 👨‍🏫 Tutores
 
 - 🎓 **Mag. Ing. Gabriel Piñeiro**
-- 🎓 **Ing. Agustin Perrota**
+- 🎓 **Ing. Agustin Perrotta**
 
 ## 👥 Integrantes
 
