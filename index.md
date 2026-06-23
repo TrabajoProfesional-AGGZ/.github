@@ -27,4 +27,4 @@ Somos el **Grupo 196** de la materia y el **Grupo 12** a cargo de nuestros tutor
 ### 👨‍🏫 Tutores
 
 * 🎓 Mag. Ing. Gabriel Piñeiro
-* 🎓 Ing. Agustin Perrota
+* 🎓 Ing. Agustin Perrotta
