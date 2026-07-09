@@ -30,7 +30,7 @@ Estado actual de la gestión de tareas dividido por cada componente del sistema:
 | **Scrum** | ![Commits](https://img.shields.io/github/commit-activity/w/trabajoprofesional-aggz/scrum?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/trabajoprofesional-aggz/scrum?style=flat-square) | ![Issues](https://img.shields.io/github/issues/trabajoprofesional-aggz/scrum?style=flat-square) |
 | **.github** | ![Commits](https://img.shields.io/github/commit-activity/w/trabajoprofesional-aggz/.github?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/trabajoprofesional-aggz/.github?style=flat-square) | ![Issues](https://img.shields.io/github/issues/trabajoprofesional-aggz/.github?style=flat-square) |
 
-## Análisis de código continuo (SonarCloud)
+## Análisis de código continuo
 
 Monitoreo de calidad, vulnerabilidades y deuda técnica de los componentes principales:
 
@@ -51,19 +51,3 @@ Monitoreo de calidad, vulnerabilidades y deuda técnica de los componentes princ
 | **Plataforma Web** | [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_plataforma-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_plataforma-web) | [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_plataforma-web&metric=bugs)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_plataforma-web) | [![Security](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_plataforma-web&metric=security_rating)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_plataforma-web) | [![Debt](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_plataforma-web&metric=sqale_index)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_plataforma-web) | [![Duplication](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_plataforma-web&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_plataforma-web) |
 | **Scrum** | [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_scrum&metric=alert_status)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_scrum) | [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_scrum&metric=bugs)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_scrum) | [![Security](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_scrum&metric=security_rating)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_scrum) | [![Debt](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_scrum&metric=sqale_index)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_scrum) | [![Duplication](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_scrum&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_scrum) |
 | **.github** | [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_.github&metric=alert_status)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_.github) | [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_.github&metric=bugs)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_.github) | [![Security](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_.github&metric=security_rating)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_.github) | [![Debt](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_.github&metric=sqale_index)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_.github) | [![Duplication](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_.github&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_.github) |
-
-## Perfil global en GitHub de los integrantes
-
-*(Nota: Estas estadísticas reflejan la actividad total de los usuarios en la plataforma de GitHub, incluyendo todos los repositorios detallados anteriormente).*
-
-### Ascencio Felipe Santino
-![Estadísticas de Felipe](https://github-readme-stats.vercel.app/api?username=FelipeAscencio&show_icons=true&theme=default&include_all_commits=true)
-
-### Ghosn Lautaro Gabriel
-![Estadísticas de Lautaro](https://github-readme-stats.vercel.app/api?username=LGhosn&show_icons=true&theme=default&include_all_commits=true)
-
-### Guerrero Martín
-![Estadísticas de Martín](https://github-readme-stats.vercel.app/api?username=marttinguerrero&show_icons=true&theme=default&include_all_commits=true)
-
-### Zielonka Axel
-![Estadísticas de Axel](https://github-readme-stats.vercel.app/api?username=axel-zielonka&show_icons=true&theme=default&include_all_commits=true)
