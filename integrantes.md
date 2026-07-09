@@ -93,13 +93,13 @@ A continuación, se detalla la distribución de los roles y las competencias asi
 *(Nota: Estas estadísticas reflejan la actividad total de los usuarios en la plataforma de GitHub, incluyendo todos los repositorios detallados anteriormente).*
 
 ### Ascencio Felipe Santino
-![Estadísticas de Felipe](https://github-readme-stats.vercel.app/api?username=FelipeAscencio&show_icons=true&theme=default&include_all_commits=true)
+![Estadísticas de Felipe](https://github-stats-extended.vercel.app/api?username=FelipeAscencio&show_icons=true&theme=default&include_all_commits=true)
 
 ### Ghosn Lautaro Gabriel
-![Estadísticas de Lautaro](https://github-readme-stats.vercel.app/api?username=LGhosn&show_icons=true&theme=default&include_all_commits=true)
+![Estadísticas de Lautaro](https://github-stats-extended.vercel.app/api?username=LGhosn&show_icons=true&theme=default&include_all_commits=true)
 
 ### Guerrero Martín
-![Estadísticas de Martín](https://github-readme-stats.vercel.app/api?username=marttinguerrero&show_icons=true&theme=default&include_all_commits=true)
+![Estadísticas de Martín](https://github-stats-extended.vercel.app/api?username=marttinguerrero&show_icons=true&theme=default&include_all_commits=true)
 
 ### Zielonka Axel
-![Estadísticas de Axel](https://github-readme-stats.vercel.app/api?username=axel-zielonka&show_icons=true&theme=default&include_all_commits=true)
+![Estadísticas de Axel](https://github-stats-extended.vercel.app/api?username=axel-zielonka&show_icons=true&theme=default&include_all_commits=true)
