@@ -59,6 +59,15 @@ Aplicación móvil de "SocioUnido".
   <a href="https://trabajoprofesional-aggz.github.io/aplicacion/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
+### control-de-accesos
+
+Aplicación móvil de "SocioUnido" para empleados.
+
+<div style="margin-top: 15px; margin-bottom: 40px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <a href="https://github.com/TrabajoProfesional-AGGZ/control-de-accesos" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/control-de-accesos/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+</div>
+
 ### plataforma-web
 
 Plataforma web de "SocioUnido".
