@@ -12,7 +12,7 @@ Monitoreo global del avance, calidad de código y gestión de tareas para todos 
 
 Estado actual de la gestión de tareas dividido por cada componente del sistema:
 
-| Repositorio | Commits | Pull Requests | Issues Abiertos |
+| Repositorio | Commits | Pull Requests | Issues abiertos |
 | :--- | :--- | :--- | :--- |
 | **Aplicación** | ![Commits](https://img.shields.io/github/commit-activity/w/trabajoprofesional-aggz/aplicacion?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/trabajoprofesional-aggz/aplicacion?style=flat-square) | ![Issues](https://img.shields.io/github/issues/trabajoprofesional-aggz/aplicacion?style=flat-square) |
 | **Bitácora** | ![Commits](https://img.shields.io/github/commit-activity/w/trabajoprofesional-aggz/bitacora?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/trabajoprofesional-aggz/bitacora?style=flat-square) | ![Issues](https://img.shields.io/github/issues/trabajoprofesional-aggz/bitacora?style=flat-square) |
@@ -35,7 +35,7 @@ Estado actual de la gestión de tareas dividido por cada componente del sistema:
 
 Monitoreo de calidad, vulnerabilidades y deuda técnica de los componentes principales:
 
-| Repositorio | Quality Gate | Confiabilidad (Bugs) | Seguridad | Deuda Técnica | Duplicación |
+| Repositorio | Quality Gate | Confiabilidad (Bugs) | Seguridad | Deuda técnica | Duplicación |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Aplicación** | [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_aplicacion&metric=alert_status)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_aplicacion) | [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_aplicacion&metric=bugs)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_aplicacion) | [![Security](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_aplicacion&metric=security_rating)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_aplicacion) | [![Debt](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_aplicacion&metric=sqale_index)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_aplicacion) | [![Duplication](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_aplicacion&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_aplicacion) |
 | **Bitácora** | [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_bitacora&metric=alert_status)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_bitacora) | [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_bitacora&metric=bugs)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_bitacora) | [![Security](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_bitacora&metric=security_rating)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_bitacora) | [![Debt](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_bitacora&metric=sqale_index)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_bitacora) | [![Duplication](https://sonarcloud.io/api/project_badges/measure?project=TrabajoProfesional-AGGZ_bitacora&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=TrabajoProfesional-AGGZ_bitacora) |
