@@ -54,7 +54,7 @@ A continuación, se detalla la distribución de los roles y las competencias asi
 
 <hr>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px; margin-top: 30px; margin-bottom: 30px; flex-direction: row-reverse;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px; margin-top: 30px; margin-bottom: 30px;">
   <img src="img/martin.png" alt="Martín Guerrero" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <div style="flex: 1 1 300px;">
     <h3 style="margin-top: 0;">Guerrero, Martín</h3>
@@ -72,7 +72,7 @@ A continuación, se detalla la distribución de los roles y las competencias asi
 
 <hr>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px; margin-top: 30px; margin-bottom: 30px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px; margin-top: 30px; margin-bottom: 30px; flex-direction: row-reverse;">
   <img src="img/axel.jpg" alt="Axel Zielonka" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <div style="flex: 1 1 300px;">
     <h3 style="margin-top: 0;">Zielonka, Axel</h3>
