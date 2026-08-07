@@ -15,6 +15,6 @@ El ecosistema integra un panel web administrativo y una aplicación web progresi
 
 El desarrollo aplica la metodología ágil Scrum, pruebas automatizadas y despliegue continuo (CI/CD). La estrategia comercial (*Go-To-Market*), validada mediante las 5 C y 4 P, prioriza inicialmente a los clubes del ascenso metropolitano y del interior para consolidar la herramienta. En conclusión, SocioUnido promueve el saneamiento financiero, la inclusión tecnológica y la reducción del impacto ambiental al desmaterializar credenciales físicas.
 
-### Palabras Clave
+### Palabras clave
 
 Plataforma SaaS (Software como Servicio), Clubes de Fútbol, Control de Accesos Fuera de Línea, Aprendizaje Automático, Procesamiento de Lenguaje Natural (PLN), Algoritmo TOTP (Contraseña de un Solo Uso Basada en Tiempo), Metodología Scrum, Gestión Deportiva.

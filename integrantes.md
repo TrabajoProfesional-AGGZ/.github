@@ -54,28 +54,10 @@ A continuación, se detalla la distribución de los roles y las competencias asi
 
 <hr>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px; margin-top: 30px; margin-bottom: 30px;">
-  <img src="img/martin.png" alt="Martín Guerrero" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <div style="flex: 1 1 300px;">
-    <h3 style="margin-top: 0;">Guerrero, Martín</h3>
-    <p><strong>Rol:</strong> Responsable de front-end, aplicación móvil, UX/UI e identidad de marca</p>
-    <ul style="font-size: 14px;">
-      <li><strong>Alcance:</strong> Centraliza la implementación de las interfaces con el usuario, la experiencia de navegación e interacción, y la consistencia estética institucional del ecosistema.</li>
-      <li><strong>Responsabilidades:</strong> Desarrollo del panel de control (Dashboard) web y de la aplicación móvil (PWA). Lidera el diseño de los prototipos de alta fidelidad, asegurando usabilidad que minimice la curva de aprendizaje, y define paletas de colores y logotipos.</li>
-    </ul>
-    <div style="margin-top: 15px; display: flex; gap: 10px; flex-wrap: wrap;">
-      <a href="https://www.linkedin.com/in/martin-guerrero-a85409212/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #0a66c2; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 13px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">💼 LinkedIn</a>
-      <a href="https://github.com/marttinguerrero" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 13px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 GitHub</a>
-    </div>
-  </div>
-</div>
-
-<hr>
-
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px; margin-top: 30px; margin-bottom: 30px; flex-direction: row-reverse;">
   <img src="img/axel.jpg" alt="Axel Zielonka" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <div style="flex: 1 1 300px;">
-    <h3 style="margin-top: 0;">Zielonka, Axel</h3>
+    <h3 style="margin-top: 0;">Guerrero, Martín</h3>
     <p><strong>Rol:</strong> Responsable de inteligencia artificial, back-end y relaciones institucionales.</p>
     <ul style="font-size: 14px;">
       <li><strong>Alcance:</strong> Coordina la lógica de negocio del servidor, componentes de analítica avanzada y automatización inteligente, además de gestionar vínculos formales sectoriales.</li>
@@ -84,6 +66,24 @@ A continuación, se detalla la distribución de los roles y las competencias asi
     <div style="margin-top: 15px; display: flex; gap: 10px; flex-wrap: wrap;">
       <a href="https://www.linkedin.com/in/axel-zielonka/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #0a66c2; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 13px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">💼 LinkedIn</a>
       <a href="https://github.com/axel-zielonka" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 13px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 GitHub</a>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px; margin-top: 30px; margin-bottom: 30px;">
+  <img src="img/martin.png" alt="Martín Guerrero" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="flex: 1 1 300px;">
+    <h3 style="margin-top: 0;">Zielonka, Axel</h3>
+    <p><strong>Rol:</strong> Responsable de front-end, aplicación móvil, UX/UI e identidad de marca</p>
+    <ul style="font-size: 14px;">
+      <li><strong>Alcance:</strong> Centraliza la implementación de las interfaces con el usuario, la experiencia de navegación e interacción, y la consistencia estética institucional del ecosistema.</li>
+      <li><strong>Responsabilidades:</strong> Desarrollo del panel de control (Dashboard) web y de la aplicación móvil (PWA). Lidera el diseño de los prototipos de alta fidelidad, asegurando usabilidad que minimice la curva de aprendizaje, y define paletas de colores y logotipos.</li>
+    </ul>
+    <div style="margin-top: 15px; display: flex; gap: 10px; flex-wrap: wrap;">
+      <a href="https://www.linkedin.com/in/martin-guerrero-a85409212/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #0a66c2; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 13px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">💼 LinkedIn</a>
+      <a href="https://github.com/marttinguerrero" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 13px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 GitHub</a>
     </div>
   </div>
 </div>

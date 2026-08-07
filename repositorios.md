@@ -10,7 +10,7 @@ El proyecto **SocioUnido** está construido sobre una arquitectura distribuida.
 
 A continuación se detallan todos los repositorios que conforman nuestro ecosistema técnico y administrativo.
 
-## 🗂️ Documentación y Gestión
+## 🗂️ Documentación y gestión
 
 ### bitacora
 

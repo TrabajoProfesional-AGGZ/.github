@@ -5,7 +5,7 @@ nav_order: 1
 description: "Página principal de la organización SocioUnido"
 ---
 
-# Trabajo Profesional - SocioUnido
+# Trabajo Profesional AGGZ - SocioUnido
 
 Bienvenidos a nuestro espacio de desarrollo del **Trabajo Profesional**. 
 
