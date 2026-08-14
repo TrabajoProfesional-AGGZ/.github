@@ -4,7 +4,7 @@ title: Métricas de la organización
 nav_order: 5
 ---
 
-# Métricas de la organización
+# 📈 Métricas de la organización
 
 Monitoreo global del avance, calidad de código y gestión de tareas para todos los repositorios que componen el proyecto SocioUnido.
 
