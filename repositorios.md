@@ -17,8 +17,8 @@ A continuación se detallan todos los repositorios que conforman nuestro ecosist
 Registro semanal, cronograma de hitos y seguimiento continuo del progreso del Trabajo Profesional.
 
 <div style="margin-top: 15px; margin-bottom: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/bitacora" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/bitacora/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/bitacora-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/bitacora-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ### documentacion
@@ -26,8 +26,8 @@ Registro semanal, cronograma de hitos y seguimiento continuo del progreso del Tr
 Documentación de "SocioUnido".
 
 <div style="margin-top: 15px; margin-bottom: 40px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/documentacion" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/documentacion/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/documentacion-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/documentacion-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ### ideas-productos
@@ -35,8 +35,8 @@ Documentación de "SocioUnido".
 Análisis, evaluación y resumen de los productos candidatos para el Trabajo Profesional.
 
 <div style="margin-top: 15px; margin-bottom: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/ideas-productos" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/ideas-productos/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/ideas-productos-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/ideas-productos-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ### scrum
@@ -44,8 +44,8 @@ Análisis, evaluación y resumen de los productos candidatos para el Trabajo Pro
 Registro semanal de las ceremonias de Scrum y hoja de ruta definida de "SocioUnido".
 
 <div style="margin-top: 15px; margin-bottom: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/scrum" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/scrum/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/scrum-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/scrum-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ## 🖥️ Aplicación móvil (PWA) y plataforma de gestión web
@@ -55,8 +55,8 @@ Registro semanal de las ceremonias de Scrum y hoja de ruta definida de "SocioUni
 Aplicación móvil de "SocioUnido" para socios.
 
 <div style="margin-top: 15px; margin-bottom: 40px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/aplicacion" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/aplicacion/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/aplicacion-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/aplicacion-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ### control-de-accesos
@@ -64,8 +64,8 @@ Aplicación móvil de "SocioUnido" para socios.
 Aplicación móvil de "SocioUnido" para empleados.
 
 <div style="margin-top: 15px; margin-bottom: 40px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/control-de-accesos" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/control-de-accesos/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/control-de-accesos-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/control-de-accesos-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ### plataforma-web
@@ -73,8 +73,8 @@ Aplicación móvil de "SocioUnido" para empleados.
 Plataforma web de "SocioUnido".
 
 <div style="margin-top: 15px; margin-bottom: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/plataforma-web" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/plataforma-web/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/plataforma-web-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/plataforma-web-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ## ⚙️ Infraestructura
@@ -84,8 +84,8 @@ Plataforma web de "SocioUnido".
 Gateway de los microservicios de "SocioUnido".
 
 <div style="margin-top: 15px; margin-bottom: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/gateway" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/gateway/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/gateway-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/gateway-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ### healthchecker
@@ -93,8 +93,8 @@ Gateway de los microservicios de "SocioUnido".
 HealthChecker para validar estado de los microservicios de "SocioUnido".
 
 <div style="margin-top: 15px; margin-bottom: 40px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/healthchecker" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/healthchecker/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/healthchecker-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/healthchecker-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ## 🧩 Microservicios
@@ -104,8 +104,8 @@ HealthChecker para validar estado de los microservicios de "SocioUnido".
 Microservicio que gestiona la lógica de accesos y QRs de "SocioUnido".
 
 <div style="margin-top: 15px; margin-bottom: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/microservicio-acceso" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/microservicio-acceso/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/microservicio-acceso-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/microservicio-acceso-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ### microservicio-analiticas
@@ -113,8 +113,8 @@ Microservicio que gestiona la lógica de accesos y QRs de "SocioUnido".
 Microservicio que gestiona las analíticas y métricas de "SocioUnido".
 
 <div style="margin-top: 15px; margin-bottom: 40px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/microservicio-analiticas" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/microservicio-analiticas/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/microservicio-analiticas-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/microservicio-analiticas-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ### microservicio-autenticacion
@@ -122,8 +122,8 @@ Microservicio que gestiona las analíticas y métricas de "SocioUnido".
 Microservicio que gestiona la autenticación de los usuarios de "SocioUnido".
 
 <div style="margin-top: 15px; margin-bottom: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/microservicio-autenticacion" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/microservicio-autenticacion/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/microservicio-autenticacion-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/microservicio-autenticacion-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ### microservicio-bot-conversacional
@@ -131,8 +131,8 @@ Microservicio que gestiona la autenticación de los usuarios de "SocioUnido".
 Microservicio que gestiona el bot conversacional de "SocioUnido".
 
 <div style="margin-top: 15px; margin-bottom: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/microservicio-bot-conversacional" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/microservicio-bot-conversacional/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/microservicio-bot-conversacional-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/microservicio-bot-conversacional-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ### microservicio-club
@@ -140,8 +140,8 @@ Microservicio que gestiona el bot conversacional de "SocioUnido".
 Microservicio que gestiona la lógica central de "SocioUnido".
 
 <div style="margin-top: 15px; margin-bottom: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/microservicio-club" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/microservicio-club/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/microservicio-club-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/microservicio-club-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
 
 ### microservicio-pagos
@@ -149,6 +149,6 @@ Microservicio que gestiona la lógica central de "SocioUnido".
 Microservicio que gestiona los pagos de "SocioUnido".
 
 <div style="margin-top: 15px; margin-bottom: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/TrabajoProfesional-AGGZ/microservicio-pagos" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
-  <a href="https://trabajoprofesional-aggz.github.io/microservicio-pagos/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
+  <a href="https://github.com/TrabajoProfesional-AGGZ/microservicio-pagos-doc" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>
+  <a href="https://trabajoprofesional-aggz.github.io/microservicio-pagos-doc/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0284c7; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">📖 Ver documentación</a>
 </div>
