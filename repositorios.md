@@ -52,7 +52,7 @@ Registro semanal de las ceremonias de Scrum y hoja de ruta definida de "SocioUni
 
 ### aplicacion
 
-Aplicación móvil de "SocioUnido".
+Aplicación móvil de "SocioUnido" para socios.
 
 <div style="margin-top: 15px; margin-bottom: 40px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://github.com/TrabajoProfesional-AGGZ/aplicacion" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">🐙 Ver repositorio</a>

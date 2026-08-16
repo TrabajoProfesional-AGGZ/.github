@@ -14,7 +14,6 @@ En esta organización centralizamos tanto el código como toda la documentación
 * [**🚀 Introducción a SocioUnido**](introduccion.html): Aquí se resume el producto desarrollado.
 * [**👥 Integrantes**](integrantes.html): Espacio para concer al equipo detrás del desarrollo, roles asignados dentro del proyecto y métodos de contacto.
 * [**📦 Repositorios**](repositorios.html): Funciona como índice con acceso directo y explicativo a todos los repositorios que componen nuestro trabajo profesional.
-* [**📈 Métricas de la organización**](metricas.html): Monitoreo global del avance, calidad de código y gestión de tareas de todos los repositorios.
 * [**📊 Métricas de la implementación**](metricas_repo.html): Estadísticas del desarrollo, cantidad de commits, Pull Requests y distribución del trabajo en el equipo.
 
 ## 📌 Información de la materia
